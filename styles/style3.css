@@ -1,18 +1,15 @@
 ﻿@import url("layout.css");
 body {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	
-	
-	background-attachment: scroll;
-	background-color: #810081;
-	
-
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-attachment: scroll;
+   
+    background-color: white;
 }
 #container {
-	border-right: 2px solid #484848;
-	border-bottom: 2px solid #484848;
-	border-left: 2px solid #484848;
-	background-color: #fff;
+    border-right: 2px solid #484848;
+    border-bottom: 2px solid #484848;
+    border-left: 2px solid #484848;
+    background-color: white;
 }
 
 #navigation {
@@ -23,43 +20,11 @@ body {
 html>body #navigation {
 	overflow: hidden;
 }
-#column_l {
-	width: 367px;
-	padding: 15px;
-	background-color: #fff;
-}
-html>body #column_l {
-	font: medium serif;
-	width: 370px;
-	padding: 0 15px;
-	background-color: #fff;
-	color: #484848;
-}
-#column_r {
-	width: 217px;
-	padding: 15px 10px;
-	background-color: #fff;
-}
-html>body #column_r {
-	font: medium serif;
-	width: 220px;
-	padding: 15px 10px;
-	background-color: #fff;
-	color: #484848;
-}
+
 #content {
-	background-color: #fff;
+    background-color: white;
 }
-#footer {
-	text-align: center;
-	padding-bottom: 10px;
-}
-html>body #footer {
-	border: #800080;
-	text-align: center;
-	padding-bottom: 0;
-	background-color: #FFAA33;
-}
+
 /* Cabecera */
 #masthead h1 {
 	color: #8b0000;
@@ -85,7 +50,7 @@ html>body #footer {
 	background-color: #fea;
 	font-weight: bold;
 	text-decoration: none;
-	color: #8b0000;
+	color: #ffffff;
 	display: block;
 	padding: 5px;
 	border: 1px solid #fea;
@@ -97,12 +62,7 @@ html>body #footer {
 	border: 1px solid #8b0000;
 	background-color: #8b0000;
 }
-/* Columna derecha */
-#column_r img {
-	background: #FFFFFF;
-	border: 1px #FFFFFF solid;
-	background-color: #FFFFFF;
-}
+
 /* Tipografía del sitio */
 h1 {
 	font-size: xx-large;
@@ -128,12 +88,7 @@ h6 {
 	font-size: xx-small;
 	color: #300;
 }
-/* Pie de página */
-#footer p {
-	font-size: x-small;
-	color: #000;
-	background-color: #FFFFFF;
-}
+
 /* Vínculos */
 a {
 	color: #8b0000;

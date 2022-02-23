@@ -1,20 +1,16 @@
 ﻿@import url("layout.css");
 body {
-	font-family: "Trebuchet MS", sans-serif;
-	background-image: url("../images/fondo.gif");
-	background-repeat: repeat;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: white;
 }
 #container {
-	border-right: 2px solid #8c8c8c;
-	border-bottom: 2px solid #8c8c8c;
-	border-left: 2px solid #8c8c8c;
+
 	background-color: #fff;
 }
 #masthead {
 	text-align: center;
 	background-color: #fff;
-	background-image: url("../images/masthead_image.jpg");
-	background-repeat: no-repeat;
+
 }
 #navigation {
 	border-top: 1px solid #808080;
@@ -24,37 +20,11 @@ body {
 html>body #navigation {
 	overflow: hidden;
 }
-#column_l {
-	width: 367px;
-	padding: 15px;
-	background-color: #fff;
-}
-html>body #column_l {
-	width: 370px;
-	padding: 0 15px;
-	background-color: #fff;
-}
-#column_r {
-	width: 217px;
-	padding: 15px 10px;
-	background-color: #fff;
-}
-html>body #column_r {
-	width: 220px;
-	padding: 15px 10px;
-	background-color: #fff;
-}
+
 #content {
 	background-color: #fff;
 }
-#footer {
-	text-align: center;
-	padding-bottom: 10px;
-}
-html>body #footer {
-	text-align: center;
-	padding-bottom: 0;
-}
+
 /* Cabecera */
 #masthead h1 {
 	color: #000;
@@ -75,12 +45,12 @@ html>body #footer {
 	float: left;
 }
 #navigation a {
-	font-weight: bold;
-	text-decoration: none;
-	color: #000;
-	display: block;
-	padding: 5px;
-	border: 1px solid #cdc;
+    font-weight: bold;
+    text-decoration: none;
+    color: #480048;
+    display: block;
+    padding: 5px;
+    border: 1px solid #cdc;
 }
 #navigation a:hover {
 	font-weight: bold;
@@ -91,9 +61,7 @@ html>body #footer {
 }
 
 /* Columna derecha */
-#column_r img {
-	border: 1px solid #808080;
-}
+
 /* Tipografía del sitio */
 h1 {
 	font-size: xx-large;
