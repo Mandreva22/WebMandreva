@@ -6,6 +6,8 @@
 <!-- #BeginEditable "doctitle" -->
 <title></title>
 <!-- #EndEditable -->
+
+
 <link href="styles/style3.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
 <style type="text/css">
 .auto-style1 {
@@ -19,58 +21,8 @@
 
 </head>
 
-<body style="background-image: url('images/fondo.gif')">
+<body>
 
-<p></p>
-
-
-
-<!-- Begin Container -->
-<div id="container">
-	<span class="auto-style1">
-	<!-- Begin Masthead -->
-	<!-- End Masthead -->
-	<!-- Begin iMenu -->
-	</span>
-	<p style="height: 43px; width: 634px;">   &nbsp;&nbsp;&nbsp;   
-	</p>
-	
-	<div id="navigation">
-	
-	
-		<ul>
-			
-			<li><a href="index.html">Inicio</a></li>
-			<li><a href="contadin.html">Apps Android</a></li>
-			<li><a href="solicitud.html">Apps PC</a></li>
-			<li><a href="enlaces.html">Contacto</a></li>
-		
-			
-		</ul>
-	</div>
-	<!-- End iMenu -->
-	<!-- Begin Left Column -->
-	<div id="column_l">
-		<!-- #BeginEditable "content" -->
-		<h2>Título 2</h2>
-		<p>Contenido titulo2</p>
-		<!-- #EndEditable --></div>
-	<!-- End Left Column -->
-	<!-- Begin Right Column -->
-	<div id="column_r">
-		<!-- #BeginEditable "sidebar" -->
-		<h3>Título 3</h3>
-		<p>Contenido titulo3</p>
-		<!-- #EndEditable --></div>
-	<!-- End Right Column -->
-	<!-- Begin Footer -->
-	
-	<div id="footer">
-	
-	Copyright &copy; andreva.net/Manuel Ruiz Alicante
-	</div>
-	<!-- End Footer --></div>
-<!-- End Container -->
 
 </body>
 
