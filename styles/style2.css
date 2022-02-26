@@ -24,12 +24,12 @@ html>body #navigation {
 	overflow: hidden;
 }
 #column_l {
-	width: 367px;
+	width: 50%;
 	padding: 15px;
 	background-color: #fff;
 }
 html>body #column_l {
-	width: 370px;
+	width: 50%;
 	padding: 0 15px;
 	background-color: #fff;
 }

@@ -4,25 +4,27 @@ body {
     background-color: white;
 }
 #container {
+   
+    background-image: url('../images/LogoMandrevaAlicante.png');
+    background-color:white
 
-	background-color: #fff;
 }
 #masthead {
-	text-align: center;
-	background-color: #fff;
-
+    text-align: center;
+    background-color: white
 }
 #navigation {
-	border-top: 1px solid #808080;
-	border-bottom: 1px solid #808080;
-	background-color: #cdc;
+    border-top: 1px solid #808080;
+    border-bottom: 1px solid #808080;
+    background-color: #cdc;
+    width: 100%;
 }
 html>body #navigation {
 	overflow: hidden;
 }
 
 #content {
-	background-color: #fff;
+    background-color: white
 }
 
 /* Cabecera */
@@ -31,7 +33,7 @@ html>body #navigation {
 	margin-bottom: 0;
 }
 #masthead h3 {
-	color: #9a9;
+	color:midnightblue;
 	margin-top: 0.5em;
 }
 /* Exploración */
@@ -55,7 +57,7 @@ html>body #navigation {
 #navigation a:hover {
 	font-weight: bold;
 	text-decoration: none;
-	color: #fff;
+	color: white;
 	border: 1px solid #c77;
 	background-color: #c77;
 }
